@@ -1,13 +1,7 @@
-.site-title{
-    display: block;
-    position: relative;
-    width: 200px;
-    height: 40px;
-    background-color: green;
+.site-header{
 
-    .wordmark{
-        position: absolute;
-        left: -999em;
-        top: -999em;
+    .brand{
+      max-width:200px;
     }
+    
 }
