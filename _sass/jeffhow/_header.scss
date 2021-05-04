@@ -1,0 +1,13 @@
+.site-title{
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 40px;
+    background-color: green;
+
+    .wordmark{
+        position: absolute;
+        left: -999em;
+        top: -999em;
+    }
+}

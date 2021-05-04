@@ -1,0 +1,5 @@
+---
+# Snippets Page
+
+layout: home
+---
